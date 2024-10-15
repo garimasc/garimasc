@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garima Chandel</h1>
-<h3 align="center">Aspiring Data/Decision Scientist, Ex-Quant Researcher</h3>
+<h3 align="center"> </h3>
 
 - 🌱 I’m currently learning **latest NLP techniques, Yoga, and South Indian cuisine**
 
